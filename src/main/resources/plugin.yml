@@ -1,0 +1,8 @@
+name: CrazyGuides
+main: de.fr3qu3ncy.crazyguides.Main
+version: 1.0
+author: fr3qu3ncy
+api-version: 1.18
+commands:
+  crazyguides:
+    description: Base Command.
